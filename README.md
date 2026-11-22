@@ -10,9 +10,7 @@
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt="">
-
-## ✦ About me
+<img src="assets/sec-about.webp" width="100%" alt="About me">
 
 I'm **Arjun Malik**, a student at **UpGrad School of Technology** and the founder of **[MolBhav](https://molbhav-gamma.vercel.app)**, a Pune startup that forecasts mandi prices of tomatoes, onions and potatoes so restaurants and cloud kitchens know what to buy and when.
 
@@ -23,7 +21,7 @@ I like taking an idea all the way to a live product: real data, a clean interfac
 - 🌱 **Learning:** backend systems, data pipelines and AI tools
 - 🤝 **Open to:** pilots with Pune restaurants and cloud kitchens
 
-## 🛠️ Tech stack
+<img src="assets/sec-stack.webp" width="100%" alt="Tech stack">
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,express,python,sqlite,vercel,git,github,linux,vscode&theme=dark&perline=12" alt="JavaScript, Python, HTML, CSS, Node.js, Express, libSQL / Turso, REST APIs, Git, GitHub, Vercel, Linux / WSL, VS Code">
@@ -33,7 +31,7 @@ I like taking an idea all the way to a live product: real data, a clean interfac
 **Backend & data:** `Node.js` · `Express` · `libSQL / Turso` · `REST APIs`  
 **Tools:** `Git` · `GitHub` · `Vercel` · `Linux / WSL` · `VS Code`
 
-## 📂 Featured projects
+<img src="assets/sec-projects.webp" width="100%" alt="Featured projects">
 
 <table>
 <tr>
@@ -89,10 +87,10 @@ I like taking an idea all the way to a live product: real data, a clean interfac
 
 </details>
 
-<img src="assets/divider.svg" width="100%" alt="">
-
-## 🤝 Let's connect
+<img src="assets/sec-connect.webp" width="100%" alt="Let's connect">
 
 <p align="center"><a href="https://molbhav-gamma.vercel.app"><img src="https://img.shields.io/badge/MolBhav-Live_site-21262d?style=for-the-badge&labelColor=0d1117&logo=vercel&logoColor=white" alt="MolBhav"></a> <a href="https://molbhav-launch.vercel.app"><img src="https://img.shields.io/badge/Pre--order-%E2%82%B9149%2Fmonth-21262d?style=for-the-badge&labelColor=0d1117&logo=rocket&logoColor=white" alt="Pre-order"></a> <a href="https://github.com/Arj052?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositories-21262d?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white" alt="GitHub"></a></p>
 
 <p align="center"><sub>MolBhav, Levity and Awasars are live. FRIDAY is a work in progress.</sub></p>
+
+<img src="assets/footer.webp" width="100%" alt="Thanks for stopping by">
