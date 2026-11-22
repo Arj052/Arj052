@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="Arjun Malik: a golden crown of thorns with an orbiting ring over falling code">
+<img src="assets/banner.webp" width="100%" alt="Arjun Malik: animated banner with a crowned figure over flowing code">
 
-<p><img src="https://img.shields.io/badge/Student-UpGrad_School_of_Technology-ffd166?style=flat-square&labelColor=0b1730" alt="Student: UpGrad School of Technology"> <img src="https://img.shields.io/badge/Founder-MolBhav-f4a62a?style=flat-square&labelColor=0b1730" alt="Founder: MolBhav"> <img src="https://img.shields.io/badge/Focus-Full--stack_%2B_AI-4cc9f0?style=flat-square&labelColor=0b1730" alt="Focus: Full-stack + AI"> <img src="https://img.shields.io/badge/Mindset-Build_%C2%B7_Ship_%C2%B7_Learn-7ee2a8?style=flat-square&labelColor=0b1730" alt="Mindset: Build · Ship · Learn"></p>
+<p><img src="https://img.shields.io/badge/Student-UpGrad_School_of_Technology-21262d?style=flat-square&labelColor=0d1117" alt="Student: UpGrad School of Technology"> <img src="https://img.shields.io/badge/Founder-MolBhav-21262d?style=flat-square&labelColor=0d1117" alt="Founder: MolBhav"> <img src="https://img.shields.io/badge/Focus-Full--stack_%2B_AI-21262d?style=flat-square&labelColor=0d1117" alt="Focus: Full-stack + AI"> <img src="https://img.shields.io/badge/Mindset-Build_%C2%B7_Ship_%C2%B7_Learn-21262d?style=flat-square&labelColor=0d1117" alt="Mindset: Build · Ship · Learn"></p>
 
-<p><a href="https://molbhav-gamma.vercel.app"><img src="https://img.shields.io/badge/MolBhav-Live_site-4cc9f0?style=for-the-badge&labelColor=0b1730&logo=vercel&logoColor=white" alt="MolBhav"></a> <a href="https://molbhav-launch.vercel.app"><img src="https://img.shields.io/badge/Pre--order-%E2%82%B9149%2Fmonth-ffd166?style=for-the-badge&labelColor=0b1730&logo=rocket&logoColor=white" alt="Pre-order"></a> <a href="https://github.com/Arj052?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositories-f4a62a?style=for-the-badge&labelColor=0b1730&logo=github&logoColor=white" alt="GitHub"></a></p>
+<p><a href="https://molbhav-gamma.vercel.app"><img src="https://img.shields.io/badge/MolBhav-Live_site-21262d?style=for-the-badge&labelColor=0d1117&logo=vercel&logoColor=white" alt="MolBhav"></a> <a href="https://molbhav-launch.vercel.app"><img src="https://img.shields.io/badge/Pre--order-%E2%82%B9149%2Fmonth-21262d?style=for-the-badge&labelColor=0d1117&logo=rocket&logoColor=white" alt="Pre-order"></a> <a href="https://github.com/Arj052?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositories-21262d?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white" alt="GitHub"></a></p>
 
-<img src="https://komarev.com/ghpvc/?username=Arj052&label=Profile%20views&color=ffd166&style=flat-square" alt="Profile views">
+<img src="https://komarev.com/ghpvc/?username=Arj052&label=Profile%20views&color=30363d&style=flat-square" alt="Profile views">
 
 </div>
 
@@ -93,6 +93,6 @@ I like taking an idea all the way to a live product: real data, a clean interfac
 
 ## 🤝 Let's connect
 
-<p align="center"><a href="https://molbhav-gamma.vercel.app"><img src="https://img.shields.io/badge/MolBhav-Live_site-4cc9f0?style=for-the-badge&labelColor=0b1730&logo=vercel&logoColor=white" alt="MolBhav"></a> <a href="https://molbhav-launch.vercel.app"><img src="https://img.shields.io/badge/Pre--order-%E2%82%B9149%2Fmonth-ffd166?style=for-the-badge&labelColor=0b1730&logo=rocket&logoColor=white" alt="Pre-order"></a> <a href="https://github.com/Arj052?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositories-f4a62a?style=for-the-badge&labelColor=0b1730&logo=github&logoColor=white" alt="GitHub"></a></p>
+<p align="center"><a href="https://molbhav-gamma.vercel.app"><img src="https://img.shields.io/badge/MolBhav-Live_site-21262d?style=for-the-badge&labelColor=0d1117&logo=vercel&logoColor=white" alt="MolBhav"></a> <a href="https://molbhav-launch.vercel.app"><img src="https://img.shields.io/badge/Pre--order-%E2%82%B9149%2Fmonth-21262d?style=for-the-badge&labelColor=0d1117&logo=rocket&logoColor=white" alt="Pre-order"></a> <a href="https://github.com/Arj052?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositories-21262d?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white" alt="GitHub"></a></p>
 
 <p align="center"><sub>MolBhav, Levity and Awasars are live. FRIDAY is a work in progress.</sub></p>
