@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 330 78" width="330" height="78" role="img" aria-label="Portfolio · Arjun's Folio">
+<title>Portfolio · Arjun's Folio</title>
+<defs>
+  <filter id="edge" x="-10%" y="-10%" width="120%" height="120%"><feGaussianBlur stdDeviation="5"/></filter>
+  <filter id="ng" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="1.6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <filter id="bloom" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="8"/></filter>
+  <linearGradient id="gloss" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".09"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+  <linearGradient id="topline" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#a5d6ff" stop-opacity="0"/><stop offset=".5" stop-color="#a5d6ff" stop-opacity=".7"/><stop offset="1" stop-color="#a5d6ff" stop-opacity="0"/></linearGradient>
+  <linearGradient id="glass" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0f1a2e"/><stop offset="1" stop-color="#080d18"/></linearGradient></defs>
+<style>
+.sheen{animation:sheen 9s ease-in-out infinite}
+@keyframes sheen{0%{transform:translateX(0)}30%,100%{transform:translateX(var(--d))}}
+.pulse{animation:pulse 2.4s ease-in-out infinite}@keyframes pulse{50%{opacity:.35}}
+.blink{animation:blink 1s steps(1) infinite}@keyframes blink{50%{opacity:0}}
+.tw1{animation:tw 3.1s ease-in-out infinite}.tw2{animation:tw 4.3s ease-in-out infinite}.tw3{animation:tw 5.7s ease-in-out infinite}
+@keyframes tw{0%,100%{opacity:.95}50%{opacity:.15}}
+.draw{stroke-dasharray:100;animation:draw 4s ease-in-out infinite}@keyframes draw{0%{stroke-dashoffset:100}60%,100%{stroke-dashoffset:0}}
+.car{animation:car linear infinite}@keyframes car{from{transform:translateX(-120px)}to{transform:translateX(1120px)}}
+.carL{animation:carL linear infinite}@keyframes carL{from{transform:translateX(1120px)}to{transform:translateX(-120px)}}
+.scanx{animation:scanx 6s linear infinite}@keyframes scanx{from{transform:translateX(0)}to{transform:translateX(var(--d))}}
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}</style>
+<rect x="7" y="7" width="316" height="64" rx="12" fill="none" stroke="#58a6ff" stroke-width="7.0" stroke-opacity="0.60" filter="url(#edge)"/><rect x="7" y="7" width="316" height="64" rx="12" fill="url(#glass)" fill-opacity="1"/><rect x="7" y="7" width="316" height="64" rx="12" fill="none" stroke="#58a6ff" stroke-width="1.6" stroke-opacity="0.90"/><clipPath id="nc1"><rect x="7" y="7" width="316" height="64" rx="12"/></clipPath><g clip-path="url(#nc1)"><rect x="31" y="7" width="268" height="1.2" fill="url(#topline)"/><g transform="translate(7,7) skewX(-18) translate(-7,-7)"><rect x="-163" y="7" width="130" height="64" fill="url(#gloss)" class="sheen" style="--d:716px;animation-delay:0.0s"/></g></g>
+<rect x="130" y="67" width="2" height="3" fill="#d2a8ff" opacity=".7" class="tw1" style="animation-delay:-1.5s"/><rect x="224" y="66" width="2" height="3" fill="#d2a8ff" opacity=".7" class="tw3" style="animation-delay:-0.3s"/><rect x="73" y="69" width="2" height="3" fill="#a5d6ff" opacity=".7" class="tw2" style="animation-delay:-2.2s"/><rect x="119" y="68" width="2" height="3" fill="#a5d6ff" opacity=".7" class="tw3" style="animation-delay:-3.3s"/><rect x="191" y="66" width="2" height="3" fill="#d2a8ff" opacity=".7" class="tw1" style="animation-delay:-0.9s"/><rect x="108" y="69" width="2" height="3" fill="#d2a8ff" opacity=".7" class="tw2" style="animation-delay:-3.0s"/><rect x="241" y="69" width="2" height="3" fill="#79c0ff" opacity=".7" class="tw1" style="animation-delay:-3.0s"/><rect x="221" y="63" width="2" height="3" fill="#a5d6ff" opacity=".7" class="tw1" style="animation-delay:-3.3s"/><rect x="138" y="66" width="2" height="3" fill="#d2a8ff" opacity=".7" class="tw3" style="animation-delay:-3.7s"/><rect x="169" y="68" width="2" height="3" fill="#a5d6ff" opacity=".7" class="tw2" style="animation-delay:-2.9s"/><rect x="217" y="66" width="2" height="3" fill="#79c0ff" opacity=".7" class="tw2" style="animation-delay:-0.4s"/><rect x="104" y="66" width="2" height="3" fill="#79c0ff" opacity=".7" class="tw2" style="animation-delay:-3.9s"/>
+<circle cx="38" cy="39.0" r="17" fill="#1f6feb" fill-opacity=".22" stroke="#58a6ff"/>
+<g transform="translate(38.0,39.0) scale(0.8)" filter="url(#ng)"><rect x="-11" y="-9" width="22" height="18" rx="3" fill="none" stroke="#e1f2ff" stroke-width="2.25" stroke-linecap="round" stroke-linejoin="round"/><path d="M-11,-3.5 H11" fill="none" stroke="#e1f2ff" stroke-width="2.25" stroke-linecap="round" stroke-linejoin="round"/><circle cx="-7.5" cy="-6.2" r="1" fill="#e1f2ff"/><circle cx="-4.5" cy="-6.2" r="1" fill="#e1f2ff"/><path d="M-4,1 L-7,3.5 L-4,6 M4,1 L7,3.5 L4,6 M1.5,0.5 L-1.5,6.5" fill="none" stroke="#e1f2ff" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text x="66" y="36.0" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="16.5" font-weight="700" fill="#f0f6fc">Portfolio · Arjun's Folio</text>
+<text x="66" y="55.0" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" fill="#a5d6ff">arjun-folio-theta.vercel.app</text>
+<text x="304" y="45.0" text-anchor="end" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="17" fill="#58a6ff" filter="url(#ng)">↗</text>
+</svg>
